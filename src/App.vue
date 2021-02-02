@@ -3,7 +3,7 @@
     <!-- Nav bar -->
     <nav class="navbar navbar-dark bg-primary justify-content-between flex-nowrap flex-row">
       <div class="container">
-        <a class="navbar-brand float-left">MEVN Stack Example</a>
+        <a class="navbar-brand float-left">MEVN Stack CRUD app</a>
         <ul class="nav navbar-nav flex-row float-lg-right">
           <li class="nav-item">
             <router-link class="nav-link pr-3" to="/">Create Student</router-link>

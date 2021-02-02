@@ -1,5 +1,5 @@
 # mevn-stack-crud
-<p>Here I'll creating a full stack web app with the MEVN stack. It will a student record management system that allows users to perform CRUD operations.</p>
+<p>Here I'll creating a full stack web app with the MEVN stack following a guide. It will a student record management system that allows users to perform CRUD operations.</p>
 
 ## Project setup
 ```
